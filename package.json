@@ -1,0 +1,20 @@
+{
+  "name": "trail_project",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sneha Shukla",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+  
+}
